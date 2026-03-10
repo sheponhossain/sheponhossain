@@ -98,28 +98,6 @@ I'm a passionate frontend developer from Bangladesh with a strong focus on creat
 - 🌙 Dark/Light theme toggle
 - 📋 Project showcase section
 
-**Dependencies:**
-
-- React 18.x
-- styled-components
-- react-router-dom
-- framer-motion
-
-**Setup Instructions:**
-
-```bash
-# Clone the repository
-git clone https://github.com/sheponhossain/portfolio.git
-
-# Install dependencies
-npm install
-
-# Start development server
-npm start
-
-# Build for production
-npm run build
-```
 
 **Live Demo:** [https://portfolio-shepon.web.app/](https://portfolio-shepon.web.app/)
 
