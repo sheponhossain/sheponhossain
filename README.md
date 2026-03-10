@@ -298,7 +298,7 @@ npm start
 ## 📞 Contact Information
 
 - 📫 **Email:** sheponhossain.dev@gmail.com
-- 📄 **Resume:** [Google Drive](https://drive.google.com/drive/u/0/folders/1eHOiTADK5i8u_1IP0VyTGZTaKI-1UZ0_)
+- 📄 **Resume:** [Google Drive]([https://drive.google.com/drive/u/0/folders/1eHOiTADK5i8u_1IP0VyTGZTaKI-1UZ0](https://drive.google.com/file/d/1uCZEePAASzbw_Mm27vEL64ZFYxbj6BEb/view?usp=sharing)_)
 - 🔗 **LinkedIn:** [shepon-hossain](https://linkedin.com/in/shepon-hossain)
 - 🐦 **GitHub:** [sheponhossain](https://github.com/sheponhossain)
 - 📱 **Facebook:** [shepon.hossen.773](https://www.facebook.com/shepon.hossen.773)
