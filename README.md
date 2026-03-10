@@ -150,7 +150,7 @@ A modern E-commerce Hub built with Next.js. Featuring a seamless product browsin
 
 ## 📸 Preview
 <p align="center">
-  <img src="https://i.ibb.co.com/N26BjDMW/Gemini-Generated-Image-ggm455ggm455ggm4.png" alt="NextGen Hub Preview" width="100%">
+  <img src="https://i.ibb.co.com/DBNS6Zs/nexthub-gen-showcase.png" alt="NextGen Hub Preview" width="100%">
 </p>
 
 ---
@@ -229,7 +229,7 @@ A comprehensive Full Stack Blood Donation Management System built to bridge the 
 
 ## 📸 Preview
 <p align="center">
-  <img src="https://i.ibb.co.com/hR6f9HLn/Gemini-Generated-Image-ixlqzaixlqzaixlq.png" alt="Blood Donation Preview" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+  <img src="https://i.ibb.co.com/Z6Fzc67N/blood-donation-showcase.png" alt="Blood Donation Preview" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
 </p>
 
 ---
