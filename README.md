@@ -150,6 +150,7 @@ A modern E-commerce Hub built with Next.js. Featuring a seamless product browsin
 <p align="center">
   <img src="https://i.ibb.co.com/rf5Kbdwf/github-banner.png" alt="NextGen Hub Preview" width="100%">
 </p>
+*(Note: You can replace this banner with a direct screenshot of your dashboard)*
 
 ---
 
@@ -175,7 +176,7 @@ The project is built using the following core technologies:
 
 ## 📦 Dependencies
 Main packages used in this project:
-- `react`
+- `react`, `react-dom`
 - `next`
 - `chart.js`, `react-chartjs-2`
 - `tailwindcss`
@@ -188,10 +189,10 @@ Follow these steps to run the project locally on your machine:
 
 ```bash
 # Clone the repository
-git clone [https://github.com/sheponhossain/ecommerce-dashboard.git](https://github.com/sheponhossain/ecommerce-dashboard.git)
+git clone [https://github.com/sheponhossain/NextGen_Hub.git](https://github.com/sheponhossain/NextGen_Hub.git)
 
 # Navigate to the project directory
-cd ecommerce-dashboard
+cd NextGen_Hub
 
 # Install dependencies
 npm install
@@ -201,6 +202,12 @@ npm run dev
 
 # Build for production
 npm run build
+
+# Start production server
+npm start
+
+ ```
+---
 
 ### 📋 Task Management App
 
