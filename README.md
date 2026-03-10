@@ -150,7 +150,6 @@ A modern E-commerce Hub built with Next.js. Featuring a seamless product browsin
 <p align="center">
   <img src="https://i.ibb.co.com/N26BjDMW/Gemini-Generated-Image-ggm455ggm455ggm4.png" alt="NextGen Hub Preview" width="100%">
 </p>
-*(Note: You can replace this banner with a direct screenshot of your dashboard)*
 
 ---
 
@@ -189,7 +188,7 @@ Follow these steps to run the project locally on your machine:
 
 ```bash
 # Clone the repository
-git clone [https://github.com/sheponhossain/NextGen_Hub.git](https://github.com/sheponhossain/NextGen_Hub.git)
+git clone [https://github.com/sheponhossain/NextGen-HUB.git]
 
 # Navigate to the project directory
 cd NextGen_Hub
@@ -209,7 +208,7 @@ npm start
  ```
 ---
 
-# 🩸 Blood_Donation - Full Stack Platform
+### Blood_Donation - Full Stack Platform
 
 A comprehensive Full Stack Blood Donation Management System built to bridge the gap between blood donors and those in need, featuring real-time search and secure user authentication.
 
@@ -268,7 +267,7 @@ Follow these steps to run the project locally on your machine:
 
 ```bash
 # Clone the repository
-git clone [https://github.com/sheponhossain/Blood_Donation.git](https://github.com/sheponhossain/Blood_Donation.git)
+git clone [https://github.com/sheponhossain/Blood-Donation-Client.git][https://github.com/sheponhossain/Blood-Donation-Server.git]
 
 # Navigate to the project directory
 cd Blood_Donation
