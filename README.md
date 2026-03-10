@@ -117,30 +117,6 @@ I'm a passionate frontend developer from Bangladesh with a strong focus on creat
 - 📈 Interactive data charts
 - 🔍 Advanced search and filtering
 
-**Dependencies:**
-
-- React 18.x
-- Tailwind CSS
-- Chart.js
-- react-chartjs-2
-- react-icons
-
-**Setup Instructions:**
-
-```bash
-# Clone the repository
-git clone https://github.com/sheponhossain/ecommerce-dashboard.git
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-
-# Build for production
-npm run build
-```
-
 **Live Demo:** [Demo Link]()
 
 ### 📊 [Task Management App](https://github.com/sheponhossain/task-manager)
