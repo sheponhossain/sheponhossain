@@ -63,13 +63,21 @@ I'm a passionate Full Stack Developer with expertise in modern web technologies.
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheponhossain)](https://github.com/sheponhossain/github-readme-stats)
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheponhossain&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
-  <br><br>
-  <img src="https://streak-stats.demolab.com/?user=sheponhossain&theme=radical&hide_border=true&fire=FF4444&currStreakLabel=FF4444" alt="GitHub Streak Stats">
-</div>
+<p align="center">
+  <a href="https://github.com/sheponhossain">
+    <img src="https://github-readme-stats.vercel.app/api?username=sheponhossain&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" height="180px" />
+  </a>
+  
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sheponhossain&layout=compact&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheponhossain&layout=compact&theme=radical" alt="Top Languages" height="180px" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sheponhossain">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheponhossain&theme=radical" alt="GitHub Streak" />
+  </a>
+</p>
 
 ---
 
