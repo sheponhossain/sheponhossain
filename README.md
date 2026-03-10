@@ -1,8 +1,11 @@
-![Banner Image](https://via.placeholder.com/1200x400/2d3748/ffffff?text=Shepon+Hossain+-+Full+Stack+Developer)
+<div align="center">
+  <img src="https://via.placeholder.com/1200x400/2d3748/ffffff?text=Shepon+Hossain+-+Full+Stack+Developer" alt="Banner" width="100%">
+</div>
 
-# Shepon Hossain
-
-## Full Stack Developer
+<div align="center">
+  <h1>Shepon Hossain</h1>
+  <h2>Full Stack Developer</h2>
+</div>
 
 ---
 
@@ -76,22 +79,152 @@ I'm a passionate Full Stack Developer with expertise in modern web technologies.
 
 A modern, responsive portfolio website showcasing my skills and projects with smooth animations and clean design.
 
-**Tech Stack:** React, Next.js, Tailwind CSS, JavaScript, Framer Motion
+**Overview:** A beautiful, interactive portfolio built with modern technologies to demonstrate frontend development skills and project showcase capabilities.
+
 **Live Demo:** [https://portfolio-shepon.web.app/](https://portfolio-shepon.web.app/)
+
+**Technology Stack:**
+
+- React 18
+- Next.js 13
+- Tailwind CSS
+- Framer Motion
+- JavaScript ES6+
+
+**Key Features:**
+
+- 🎨 Modern, responsive design
+- ⚡ Smooth animations and transitions
+- 📱 Mobile-first approach
+- 🌙 Dark/Light theme toggle
+- 📋 Project showcase section
+- 📧 Contact form integration
+
+**Dependencies:**
+
+- `react`, `react-dom`
+- `next`
+- `tailwindcss`, `autoprefixer`, `postcss`
+- `framer-motion`
+- `@headlessui/react`
+
+**Setup Instructions:**
+
+```bash
+# Clone the repository
+git clone https://github.com/sheponhossain/portfolio.git
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+# Build for production
+npm run build
+
+# Start production server
+npm start
+```
+
+---
 
 ### 🛒 E-commerce Dashboard
 
 A comprehensive admin dashboard for managing e-commerce operations with real-time data visualization and analytics.
 
-**Tech Stack:** React, Chart.js, Tailwind CSS, JavaScript
-**Features:** Sales analytics, inventory management, customer management, interactive charts
+**Overview:** A powerful admin dashboard designed for e-commerce businesses to monitor sales, manage inventory, and analyze customer data through interactive charts and real-time updates.
+
+**Technology Stack:**
+
+- React 18
+- Chart.js
+- Tailwind CSS
+- JavaScript ES6+
+
+**Key Features:**
+
+- 📊 Real-time sales analytics
+- 📦 Product inventory management
+- 👥 Customer management system
+- 📈 Interactive data charts
+- 🔍 Advanced search and filtering
+- 📱 Mobile responsive design
+
+**Dependencies:**
+
+- `react`, `react-dom`
+- `chart.js`, `react-chartjs-2`
+- `tailwindcss`
+- `date-fns`
+
+**Setup Instructions:**
+
+```bash
+# Clone the repository
+git clone https://github.com/sheponhossain/ecommerce-dashboard.git
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+# Build for production
+npm run build
+```
+
+---
 
 ### 📋 Task Management App
 
 A Kanban-style task management application with drag-and-drop functionality and real-time collaboration features.
 
-**Tech Stack:** React, Firebase, react-beautiful-dnd, Tailwind CSS
-**Features:** Drag-and-drop boards, user authentication, real-time collaboration, task categorization
+**Overview:** A collaborative task management tool that allows teams to organize projects using Kanban boards with real-time updates and user authentication.
+
+**Technology Stack:**
+
+- React 18
+- Firebase (Authentication & Firestore)
+- react-beautiful-dnd
+- Tailwind CSS
+- JavaScript ES6+
+
+**Key Features:**
+
+- 🔄 Drag-and-drop task boards
+- 👥 Real-time collaboration
+- 🔐 User authentication
+- 📱 Mobile responsive design
+- 🏷️ Task categorization and tagging
+- 💾 Cloud data persistence
+
+**Dependencies:**
+
+- `react`, `react-dom`
+- `firebase`
+- `react-beautiful-dnd`
+- `tailwindcss`
+- `react-router-dom`
+
+**Setup Instructions:**
+
+```bash
+# Clone the repository
+git clone https://github.com/sheponhossain/task-manager.git
+
+# Install dependencies
+npm install
+
+# Configure Firebase (create .env.local file)
+# Add your Firebase configuration
+
+# Start development server
+npm run dev
+
+# Build for production
+npm run build
+```
 
 ---
 
