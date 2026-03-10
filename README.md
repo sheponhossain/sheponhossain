@@ -129,40 +129,69 @@ npm start
 
 ---
 
-### 🛒 E-commerce Dashboard
+# 🛒 NextGen_Hub
 
-A comprehensive admin dashboard for managing e-commerce operations with real-time data visualization and analytics.
+A modern E-commerce Hub built with Next.js. Featuring a seamless product browsing experience, dynamic routing, and an interactive UI.
 
-**Overview:** A powerful admin dashboard designed for e-commerce businesses to monitor sales, manage inventory, and analyze customer data through interactive charts and real-time updates.
+---
 
-**Technology Stack:**
+## 🔗 Project Links
+- **Live Demo:** [https://next-gen-hub-gules.vercel.app/](https://next-gen-hub-gules.vercel.app/)
+- **Author Portfolio:** [https://portfolio-shepon.web.app/](https://portfolio-shepon.web.app/)
 
-- React 18
-- Chart.js
-- Tailwind CSS
-- JavaScript ES6+
+---
 
-**Key Features:**
+## 📝 Overview
+**NextGen_Hub** is a powerful admin dashboard designed for e-commerce businesses to monitor sales, manage inventory, and analyze customer data through interactive charts and real-time updates. It focuses on providing a data-driven experience with a sleek, modern interface.
 
-- 📊 Real-time sales analytics
-- 📦 Product inventory management
-- 👥 Customer management system
-- 📈 Interactive data charts
-- 🔍 Advanced search and filtering
-- 📱 Mobile responsive design
+---
 
-**Dependencies:**
+## 📸 Preview
+<p align="center">
+  <img src="https://i.ibb.co.com/rf5Kbdwf/github-banner.png" alt="NextGen Hub Preview" width="100%">
+</p>
 
-- `react`, `react-dom`
+---
+
+## 🛠️ Technology Stack
+The project is built using the following core technologies:
+- **Framework:** Next.js (App Router)
+- **Library:** React 18
+- **Data Visualization:** Chart.js & React-Chartjs-2
+- **Styling:** Tailwind CSS
+- **Language:** JavaScript ES6+
+
+---
+
+## ✨ Key Features
+- **📊 Real-time Sales Analytics:** Monitor revenue and sales performance with instant updates.
+- **📦 Product Inventory Management:** Efficiently track stock levels and manage product listings.
+- **👥 Customer Management System:** Analyze customer data and interaction history.
+- **📈 Interactive Data Charts:** Visualized business insights using dynamic charting components.
+- **🔍 Advanced Search & Filtering:** Optimized logic to find specific products or orders quickly.
+- **📱 Mobile Responsive Design:** Fully optimized for seamless use across mobile, tablet, and desktop.
+
+---
+
+## 📦 Dependencies
+Main packages used in this project:
+- `react`
+- `next`
 - `chart.js`, `react-chartjs-2`
 - `tailwindcss`
 - `date-fns`
 
-**Setup Instructions:**
+---
+
+## ⚙️ Setup Instructions
+Follow these steps to run the project locally on your machine:
 
 ```bash
 # Clone the repository
-git clone https://github.com/sheponhossain/ecommerce-dashboard.git
+git clone [https://github.com/sheponhossain/ecommerce-dashboard.git](https://github.com/sheponhossain/ecommerce-dashboard.git)
+
+# Navigate to the project directory
+cd ecommerce-dashboard
 
 # Install dependencies
 npm install
@@ -172,9 +201,6 @@ npm run dev
 
 # Build for production
 npm run build
-```
-
----
 
 ### 📋 Task Management App
 
