@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/1200x400/2d3748/ffffff?text=Shepon+Hossain+-+Full+Stack+Developer" alt="Banner" width="100%">
+  <img src="https://i.ibb.co.com/2Y0bQD8m/github-banner.png" alt="Banner" width="100%">
 </div>
 
 <div align="center">
