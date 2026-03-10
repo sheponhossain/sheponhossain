@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>Shepon Hossain</h1>
-  <h2>Full Stack Developer</h2>
+  <h2>Web Developer</h2>
 </div>
 
 ---
@@ -129,7 +129,7 @@ npm start
 
 ---
 
-# 🛒 NextGen_Hub
+### 🛒 NextGen_Hub
 
 A modern E-commerce Hub built with Next.js. Featuring a seamless product browsing experience, dynamic routing, and an interactive UI.
 
@@ -141,7 +141,7 @@ A modern E-commerce Hub built with Next.js. Featuring a seamless product browsin
 
 ---
 
-## 📝 Overview
+**Overview:**
 **NextGen_Hub** is a powerful admin dashboard designed for e-commerce businesses to monitor sales, manage inventory, and analyze customer data through interactive charts and real-time updates. It focuses on providing a data-driven experience with a sleek, modern interface.
 
 ---
@@ -209,109 +209,85 @@ npm start
  ```
 ---
 
-### 📋 Task Management App
+# 🩸 Blood_Donation - Full Stack Platform
 
-A Kanban-style task management application with drag-and-drop functionality and real-time collaboration features.
-
-**Overview:** A collaborative task management tool that allows teams to organize projects using Kanban boards with real-time updates and user authentication.
-
-**Technology Stack:**
-
-- React 18
-- Firebase (Authentication & Firestore)
-- react-beautiful-dnd
-- Tailwind CSS
-- JavaScript ES6+
-
-**Key Features:**
-
-- 🔄 Drag-and-drop task boards
-- 👥 Real-time collaboration
-- 🔐 User authentication
-- 📱 Mobile responsive design
-- 🏷️ Task categorization and tagging
-- 💾 Cloud data persistence
-
-**Dependencies:**
-
-- `react`, `react-dom`
-- `firebase`
-- `react-beautiful-dnd`
-- `tailwindcss`
-- `react-router-dom`
-
-**Setup Instructions:**
-
-```bash
-# Clone the repository
-git clone https://github.com/sheponhossain/task-manager.git
-
-# Install dependencies
-npm install
-
-# Configure Firebase (create .env.local file)
-# Add your Firebase configuration
-
-# Start development server
-npm run dev
-
-# Build for production
-npm run build
-```
+A comprehensive Full Stack Blood Donation Management System built to bridge the gap between blood donors and those in need, featuring real-time search and secure user authentication.
 
 ---
 
-## 🚀 Quick Start
+## 🔗 Project Links
+- **Live Demo:** [https://blood-donation-shepon.vercel.app/](https://blood-donation-shepon.vercel.app/)
+- **Author Portfolio:** [https://portfolio-shepon.web.app/](https://portfolio-shepon.web.app/)
 
-### Portfolio Website
+---
+
+**Overview**
+**Blood_Donation** is a robust full-stack solution designed to manage donor databases, handle donation requests, and provide real-time location-based donor search. It provides a seamless experience for both administrators to manage blood banks and users to find life-saving help quickly.
+
+---
+
+## 📸 Preview
+<p align="center">
+  <img src="https://i.ibb.co.com/rf5Kbdwf/github-banner.png" alt="Blood Donation Project Preview" width="100%">
+</p>
+*(Note: Replace this banner with a direct screenshot of your donation platform)*
+
+---
+
+## 🛠️ Technology Stack
+The project is built using the following core technologies:
+- **Frontend:** Next.js (App Router) / React 18
+- **Backend:** Node.js & Express.js
+- **Database:** MongoDB / PostgreSQL
+- **Authentication:** NextAuth.js / JWT
+- **Styling:** Tailwind CSS & Headless UI
+
+---
+
+## ✨ Key Features
+- **🩸 Advanced Donor Search:** Filter donors by blood group, location, and availability.
+- **🔐 Secure Authentication:** Multi-role login system for Donors and Admins.
+- **📋 Donation Requests:** Users can post emergency blood requests with real-time notifications.
+- **📊 Admin Dashboard:** Powerful dashboard to manage donors, requests, and blood inventory.
+- **📅 Donation History:** Keep track of your previous donations and upcoming eligibility.
+- **📱 Responsive UI:** Fully optimized for mobile-first experience to handle emergencies on the go.
+
+---
+
+## 📦 Dependencies
+Main packages used in this project:
+- `next`, `react`, `react-dom`
+- `axios` (For API requests)
+- `framer-motion` (For UI animations)
+- `mongoose` / `prisma` (For Database ORM)
+- `lucide-react` (For icons)
+
+---
+
+## ⚙️ Setup Instructions
+Follow these steps to run the project locally on your machine:
 
 ```bash
 # Clone the repository
-git clone https://github.com/sheponhossain/portfolio.git
+git clone [https://github.com/sheponhossain/Blood_Donation.git](https://github.com/sheponhossain/Blood_Donation.git)
+
+# Navigate to the project directory
+cd Blood_Donation
 
 # Install dependencies
 npm install
 
+# Set up environment variables (.env)
+# Create a .env file and add your MongoDB_URI, JWT_SECRET, etc.
+
 # Start development server
+npm run dev
+
+# Build for production
+npm run build
+
+# Start production server
 npm start
-
-# Build for production
-npm run build
-```
-
-### E-commerce Dashboard
-
-```bash
-# Clone the repository
-git clone https://github.com/sheponhossain/ecommerce-dashboard.git
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-
-# Build for production
-npm run build
-```
-
-### Task Management App
-
-```bash
-# Clone the repository
-git clone https://github.com/sheponhossain/task-manager.git
-
-# Install dependencies
-npm install
-
-# Configure Firebase (create .env.local file)
-# Add your Firebase configuration
-
-# Start development server
-npm run dev
-
-# Build for production
-npm run build
 ```
 
 ---
