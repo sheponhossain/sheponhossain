@@ -84,32 +84,146 @@ I'm a passionate frontend developer from Bangladesh with a strong focus on creat
 
 ### 🎯 [Portfolio Website](https://portfolio-shepon.web.app/)
 
-A modern, responsive portfolio website showcasing my projects and skills. Built with React and styled-components.
+**Overview:** A modern, responsive portfolio website showcasing my projects and skills with smooth animations and clean design.
 
-**Tech Stack:** React, CSS3, JavaScript  
-**Features:** Responsive design, smooth animations, project showcase  
+**Screenshot:** ![Portfolio Screenshot](https://via.placeholder.com/800x450/2d3748/ffffff?text=Portfolio+Website+Screenshot)
+
+**Main Technologies:** React, CSS3, JavaScript
+
+**Key Features:**
+
+- 🎨 Modern, responsive design
+- ⚡ Smooth animations and transitions
+- 📱 Mobile-first approach
+- 🌙 Dark/Light theme toggle
+- 📋 Project showcase section
+
+**Dependencies:**
+
+- React 18.x
+- styled-components
+- react-router-dom
+- framer-motion
+
+**Setup Instructions:**
+
+```bash
+# Clone the repository
+git clone https://github.com/sheponhossain/portfolio.git
+
+# Install dependencies
+npm install
+
+# Start development server
+npm start
+
+# Build for production
+npm run build
+```
+
 **Live Demo:** [https://portfolio-shepon.web.app/](https://portfolio-shepon.web.app/)
 
 ### 🛒 [E-commerce Dashboard](https://github.com/sheponhossain/ecommerce-dashboard)
 
-A comprehensive admin dashboard for managing e-commerce operations with real-time data visualization.
+**Overview:** A comprehensive admin dashboard for managing e-commerce operations with real-time data visualization and analytics.
 
-**Tech Stack:** React, Tailwind CSS, Chart.js  
-**Features:** Product management, sales analytics, user management  
+**Screenshot:** ![Dashboard Screenshot](https://via.placeholder.com/800x450/2d3748/ffffff?text=E-commerce+Dashboard+Screenshot)
+
+**Main Technologies:** React, Tailwind CSS, Chart.js
+
+**Key Features:**
+
+- 📊 Real-time sales analytics
+- 📦 Product inventory management
+- 👥 Customer management system
+- 📈 Interactive data charts
+- 🔍 Advanced search and filtering
+
+**Dependencies:**
+
+- React 18.x
+- Tailwind CSS
+- Chart.js
+- react-chartjs-2
+- react-icons
+
+**Setup Instructions:**
+
+```bash
+# Clone the repository
+git clone https://github.com/sheponhossain/ecommerce-dashboard.git
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+# Build for production
+npm run build
+```
+
 **Live Demo:** [Demo Link]()
 
 ### 📊 [Task Management App](https://github.com/sheponhossain/task-manager)
 
-A Kanban-style task management application with drag-and-drop functionality and real-time collaboration.
+**Overview:** A Kanban-style task management application with drag-and-drop functionality and real-time collaboration features.
 
-**Tech Stack:** React, Next.js, Firebase  
-**Features:** Task boards, real-time updates, user authentication  
+**Screenshot:** ![Task Manager Screenshot](https://via.placeholder.com/800x450/2d3748/ffffff?text=Task+Manager+Screenshot)
+
+**Main Technologies:** React, Next.js, Firebase
+
+**Key Features:**
+
+- 🔄 Drag-and-drop task boards
+- 👥 Real-time collaboration
+- 🔐 User authentication
+- 📱 Mobile responsive design
+- 🏷️ Task categorization and tagging
+
+**Dependencies:**
+
+- Next.js 14.x
+- React 18.x
+- Firebase
+- react-beautiful-dnd
+- tailwindcss
+
+**Setup Instructions:**
+
+```bash
+# Clone the repository
+git clone https://github.com/sheponhossain/task-manager.git
+
+# Install dependencies
+npm install
+
+# Configure Firebase (create .env.local file)
+# Add your Firebase configuration
+
+# Start development server
+npm run dev
+
+# Build for production
+npm run build
+```
+
 **Live Demo:** [Demo Link]()
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sheponhossain&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sheponhossain&layout=compact&theme=radical&langs_count=8&hide=unknown)
+### 📈 Contribution Stats
+
+![GitHub Streak Stats](https://streak-stats.demolab.com/?user=sheponhossain&theme=radical&hide_border=true&fire=FF4444&currStreakLabel=FF4444)
+![GitHub Contribution Stats](https://github-readme-stats.vercel.app/api?username=sheponhossain&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true)
+
+### 🏆 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sheponhossain&layout=compact&theme=radical&langs_count=8&hide=unknown&hide_border=true)
+
+### 🎯 Weekly Stats
+
+![GitHub Weekly Stats](https://github-readme-streak-stats.herokuapp.com/?user=sheponhossain&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 ---
 
