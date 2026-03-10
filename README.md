@@ -64,7 +64,7 @@ I'm a passionate Full Stack Developer with expertise in modern web technologies.
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sheponhossain&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheponhossain)](https://github.com/sheponhossain/github-readme-stats)
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheponhossain&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
   <br><br>
