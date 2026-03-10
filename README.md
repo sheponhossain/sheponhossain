@@ -229,7 +229,7 @@ A comprehensive Full Stack Blood Donation Management System built to bridge the 
 
 ## 📸 Preview
 <p align="center">
-  <img src="https://i.ibb.co.com/hR6f9HLn/Gemini-Generated-Image-ixlqzaixlqzaixlq.png" alt="Blood Donation Project Preview" width="100%">
+  <img src="https://i.ibb.co.com/hR6f9HLn/Gemini-Generated-Image-ixlqzaixlqzaixlq.png" alt="Blood Donation Preview" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
 </p>
 
 ---
